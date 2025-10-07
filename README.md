@@ -1,64 +1,91 @@
-# 👋 Hi, I’m **Yashi Pitti**
+# 👋 Hey Everyone, I’m **Yashi Pitti !**
 
-> ⚡ *Engineering intelligence — one system, one model, one hackathon at a time.*
+![githubprofileGIF](https://github.com/user-attachments/assets/df5567df-1a4e-4e01-a333-a78e686eadef)
+
+ `Engineering intelligence — one system, one model, one hackathon at a time.`
+
+---
+<img align="right" width="150" height="150" alt="my-octocat" src="https://github.com/user-attachments/assets/cd989eff-8b8a-4cb0-8f56-d974cc3105d3" />
+
+### About Me  
+
+- Final-year B.Tech student in **CS and AI** at NSUT, Delhi.
+- Passionate about **full-stack and AI engineering** — building systems that learn, scale, and solve real problems.
+- Experienced in working with **modern web stacks, data pipelines, and applied ML/DL**.
+---
+
+### My Toolbox
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp,c,react,redux,express,mongodb,nodejs,flask,firebase,postman,mysql,php,nextjs,ts,vscode,sklearn,tensorflow,pytorch,aws)](https://skillicons.dev)
 
 ---
 
-### 🚀 About Me  
+### What I’m Currently Working On  
 
-🎓 **Final-Year B.Tech (CSAI)** student at **Netaji Subhas University of Technology (NSUT)**  
-💡 Building at the intersection of **AI, Backend, and Scalable Systems**  
-🧠 Exploring **Recommender Systems**, **Graph Neural Networks**, **AI Agents**, and **System Design**  
-🏆 **Hackathon Winner | Research Enthusiast | Builder**  
-🌍 Open to **Software, AI/ML, or Cloud Engineering** roles and collaborations that challenge scale and creativity  
-
----
-
-### 🧩 Tech Stack  
-
-**Languages:** `Python` • `C++` • `SQL` • `JavaScript`  
-**Frameworks:** `React` • `Node.js` • `Flask` • `Express` • `TensorFlow` • `Scikit-learn`  
-**Tools & Cloud:** `AWS` • `Firebase` • `MongoDB` • `MySQL` • `Git` • `LangChain`  
-**Core Focus:** AI Agents • LLM Applications • Recommender Systems • Scalable System Design • Distributed Systems  
-
----
-
-### 🧠 What I’m Currently Working On  
-
-- 🧭 Designing **recommender systems** that blend personalization with explainability  
-- 🌐 Experimenting with **Graph Neural Networks** for knowledge representation  
-- 🧩 Architecting **AI-driven backend systems** using LangChain and cloud-native tools  
-- ☁️ Deep-diving into **system design, scalability, and distributed computing**  
-- 🧠 Learning **how intelligence scales — from algorithms to real-world deployment**  
+-  Designing **recommender systems** that blend personalization with explainability  
+-  Experimenting with **Graph Neural Networks** for knowledge representation  
+-  Architecting **AI-driven backend systems** using LangChain and cloud-native tools  
+-  Deep-diving into **system design, scalability, and agentic AI**  
 
 ---
 
 ### 🏆 Highlights & Achievements  
 
-- 🥇 **HackWie 3.0 (IEEE WIE MSIT)** — *Winner: Women Safety & Empowerment Track*  
-- 💡 **Code-For-Bharat (Microsoft Office, Gurgaon)** — *Top 20 National Finalist*  
-- ☁️ **Amazon ML Summer School 2024** — *Top 3000 Nationwide*  
-- 🚗 **UBER SHE++ 2024** — *Top 100 Selected Engineers in India*  
-- 🎾 *2nd Place in Lawn Tennis* — Winter Sports NSUT 2023  
+- **HackWie 3.0 (IEEE WIE MSIT)** — *Winner: Women Safety & Empowerment Track*  
+- **Code-For-Bharat (Microsoft Office, Gurgaon)** — *Top 20 National Finalist*  
+- **Amazon ML Summer School 2024** — *Top 3000 Nationwide*  
+- **UBER SHE++ 2024** — *Top 100 Selected Engineers in India*  
+- **DESIS Ascend Educare 2024 (D.E. Shaw 6 month Mentorship Program)** - *Top 80 selected women engineers in India*
+- **2nd Place in Lawn Tennis** — Winter Sports NSUT 2023  
 
 ---
 
-### 💼 Featured Projects  
+### Project Showcase 
 
-#### 🩺 **WearWise** – AI Health Diagnosing App  
-Smartwatch-integrated web app that generates AI-powered health summaries using **LangChain + Groq**.  
-🧱 *Tech:* Next.js, Flask, RAG pipeline, Cloudinary  
-![WearWise](project-image-placeholder1.png)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/YashiPi/WearWise">
+        <img src="project-image-placeholder1.png"
+             alt="WearWise AI Health App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>WearWise</b><br/>
+      <sub>Smartwatch-integrated AI app that generates health reports using LangChain + Groq.</sub><br/>
+      🔗 <a href="https://github.com/YashiPi/WearWise">Repo</a>
+      <br/>
+      <sub>Tags: AI, LangChain, RAG Pipeline, HealthTech</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/YashiPi/FinWise_AI_Project">
+        <img src="project-image-placeholder2.png"
+             alt="FinWise AI Banking App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>FinWise</b><br/>
+      <sub>Voice-assisted banking app for elderly users using MERN stack and AI integration.</sub><br/>
+      🔗 <a href="https://github.com/YashiPi/FinWise_AI_Project">Repo</a>
+      <br/>
+      <sub>Tags: MERN, LangChain, AI, Voice Assistant, Groq, Agentic AI</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/YashiPi/Tumor-Detection">
+        <img src="project-image-placeholder3.png"
+             alt="Tumor Detection ML Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Tumor Detection</b><br/>
+      <sub>CNN-based medical image classifier improving accuracy over baseline models.</sub><br/>
+      🔗 <a href="https://github.com/YashiPi/Tumor-Detection">Repo</a>
+      <br/>
+      <sub>Tags: ML, CNNs, TensorFlow, Medical Imaging</sub>
+    </td>
+  </tr>
+</table>
 
-#### 🏦 **FinWise** – AI Voice-Assisted Banking  
-Accessible **MERN app** with a conversational AI assistant for voice-based banking.  
-🧱 *Tech:* MERN, LangChain, Groq API, MongoDB  
-![FinWise](project-image-placeholder2.png)
-
-#### 🧬 **Tumor Detection** – ML Research Project  
-Built CNN-based models improving medical image classification accuracy by 10%.  
-🧱 *Tech:* TensorFlow, CNNs, Kaggle dataset  
-![Tumor Detection](project-image-placeholder3.png)
 
 ---
 
@@ -84,7 +111,7 @@ Built CNN-based models improving medical image classification accuracy by 10%.
 ---
 
 ### ⚡ Fun Fact  
-When I’m not debugging or designing systems, you’ll probably find me on a **tennis court**, **brainstorming hackathon ideas**, or exploring how **AI can think more like us.**
+I love collaborating on real-world problems — but you’ll just as likely find me running, lifting, or chasing a tennis ball between brainstorming sessions.
 
 ---
 
