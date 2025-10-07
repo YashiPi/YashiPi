@@ -1,8 +1,8 @@
-# 👋 Hey Everyone, I’m **Yashi Pitti !**
+<!-- <div align="center">
+  <img src="https://github.com/user-attachments/assets/df5567df-1a4e-4e01-a333-a78e686eadef" alt="githubprofileGIF" />
+</div> -->
 
-![githubprofileGIF](https://github.com/user-attachments/assets/df5567df-1a4e-4e01-a333-a78e686eadef)
-
- `Engineering intelligence — one system, one model, one hackathon at a time.`
+## 👋 Hey Everyone, I’m **Yashi Pitti !** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
 ---
 <img align="right" width="150" height="150" alt="my-octocat" src="https://github.com/user-attachments/assets/cd989eff-8b8a-4cb0-8f56-d974cc3105d3" />
@@ -46,9 +46,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/YashiPi/WearWise">
-        <img src="project-image-placeholder1.png"
-             alt="WearWise AI Health App"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="https://github.com/user-attachments/assets/403c69a4-5085-49ec-b271-fe727d169cc9" alt="WearWise AI Health App" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>WearWise</b><br/>
@@ -59,20 +57,18 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/YashiPi/FinWise_AI_Project">
-        <img src="project-image-placeholder2.png"
-             alt="FinWise AI Banking App"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img alt="FinWise AI Banking App" src="https://github.com/user-attachments/assets/39a80052-23e9-41e8-931b-7dbcc0c1c134" style="width:100%; height:200px; object-fit:cover;" />
       </a>
       <br/>
       <b>FinWise</b><br/>
       <sub>Voice-assisted banking app for elderly users using MERN stack and AI integration.</sub><br/>
       🔗 <a href="https://github.com/YashiPi/FinWise_AI_Project">Repo</a>
       <br/>
-      <sub>Tags: MERN, LangChain, AI, Voice Assistant, Groq, Agentic AI</sub>
+      <sub>Tags: MERN, LangChain, AI, Voice Assistant, Agentic AI</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/YashiPi/Tumor-Detection">
-        <img src="project-image-placeholder3.png"
+        <img src="https://github.com/user-attachments/assets/25303eff-c7b8-44c8-8b63-cddc825c3500"
              alt="Tumor Detection ML Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
