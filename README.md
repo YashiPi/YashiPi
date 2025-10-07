@@ -29,17 +29,6 @@
 
 ---
 
-### 🏆 Highlights & Achievements  
-
-- **HackWie 3.0 (IEEE WIE MSIT)** — *Winner: Women Safety & Empowerment Track*  
-- **Code-For-Bharat (Microsoft Office, Gurgaon)** — *Top 20 National Finalist*  
-- **Amazon ML Summer School 2024** — *Top 3000 Nationwide*  
-- **UBER SHE++ 2024** — *Top 100 Selected Engineers in India*  
-- **DESIS Ascend Educare 2024 (D.E. Shaw 6 month Mentorship Program)** - *Top 80 selected women engineers in India*
-- **2nd Place in Lawn Tennis** — Winter Sports NSUT 2023  
-
----
-
 ### Project Showcase 
 
 <table>
@@ -82,6 +71,17 @@
   </tr>
 </table>
 
+
+---
+
+### 🏆 Highlights & Achievements  
+
+- **HackWie 3.0 (IEEE WIE MSIT)** — *Winner: Women Safety & Empowerment Track*  
+- **Code-For-Bharat (Microsoft Office, Gurgaon)** — *Top 20 National Finalist*  
+- **Amazon ML Summer School 2024** — *Top 3000 Nationwide*  
+- **UBER SHE++ 2024** — *Top 100 Selected Engineers in India*  
+- **DESIS Ascend Educare 2024 (D.E. Shaw 6 month Mentorship Program)** - *Top 80 selected women engineers in India*
+- **2nd Place in Lawn Tennis** — Winter Sports NSUT 2023  
 
 ---
 
