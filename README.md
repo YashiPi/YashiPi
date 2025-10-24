@@ -34,13 +34,13 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/YashiPi/WearWise">
+      <a href="https://github.com/YashiPi/WearWise-AI">
         <img src="https://github.com/user-attachments/assets/403c69a4-5085-49ec-b271-fe727d169cc9" alt="WearWise AI Health App" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>WearWise</b><br/>
       <sub>Smartwatch-integrated AI app that generates health reports using LangChain + Groq.</sub><br/>
-      🔗 <a href="https://github.com/YashiPi/WearWise">Repo</a>
+      🔗 <a href="https://github.com/YashiPi/WearWise-AI">Repo</a>
       <br/>
       <sub>Tags: AI, LangChain, RAG Pipeline, HealthTech</sub>
     </td>
